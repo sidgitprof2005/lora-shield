@@ -12,3 +12,4 @@ scipy
 matplotlib
 huggingface_hub
 tqdm
+plotly
