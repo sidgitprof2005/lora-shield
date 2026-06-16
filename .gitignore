@@ -1,0 +1,16 @@
+# Python Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+
+# OS Files
+.DS_Store
+
+# Datasets and Large Checkpoints (Weights)
+data/
+temp_checkpoint_*/
+results/
+
+# Model Output State (optional, if you want to regenerate it)
+# defense/detector.json
+# defense/feature_importance.png
